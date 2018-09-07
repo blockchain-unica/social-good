@@ -1,7 +1,7 @@
 # social-good
 Blockchain for social good
 
-* Amply [link](amply.md)
+* Amply [link](social-good/amply.md)
 * BananCoin
 * CacaoShares
 * CharityDAO
