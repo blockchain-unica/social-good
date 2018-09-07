@@ -1,6 +1,6 @@
 # Blockchain for social good
 
-A curated collection of blockchain-enabled social good projects.
+A collection of blockchain-enabled social good projects, curated by [Blockchain@Unica](http://blockchain.unica.it/).
 
 ## Agriculture
 1. Agunity
