@@ -1,6 +1,7 @@
 # Blockchain for social good
 
-A collection of blockchain-enabled social good projects, curated by [Blockchain@Unica](http://blockchain.unica.it/).
+A collection of blockchain-enabled social good projects, curated by [Blockchain@Unica](http://blockchain.unica.it/). To add a project to the collection, please check that it respects the following criteria: (1) the project must use a blockchain, of any kind; (2) the goals of the project must be coherent with the [UN Sustainable Development Goals](https://sustainabledevelopment.un.org/); (3) social good should be the primary goal of the project (preeminently business-oriented projects should stay elsewhere). The collection may also include also abandoned projects, or proposals without a working implementation.
+
 
 ## Agriculture
 1. Agunity
@@ -42,10 +43,12 @@ A collection of blockchain-enabled social good projects, curated by [Blockchain@
 1. Fremantle Power Ledger Platform
 1. Genesis Research
 1. La'Zooz
+1. Plastic Bank
 1. Poseidon
 1. Proyecto Colmena
 1. RecycleToCoin
 1. SunContract
+1. Veridium
 1. WaterLedger
 
 ## Financial Inclusion
@@ -82,6 +85,7 @@ A collection of blockchain-enabled social good projects, curated by [Blockchain@
 ## Human Rights
 1. Anacoin
 1. Handshake
+1. Hu-manity.co
 1. Mannabase
 1. MazaCoin
 
