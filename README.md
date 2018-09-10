@@ -1,6 +1,6 @@
 # Blockchain for social good
 
-A collection of blockchain-enabled social good projects, curated by [Blockchain@Unica](http://blockchain.unica.it/). To add a project to the collection, please check that it respects the following criteria: (1) the project must use a blockchain, of any kind; (2) the goals of the project must be coherent with the [UN Sustainable Development Goals](https://sustainabledevelopment.un.org/); (3) social good should be the primary goal of the project (preeminently business-oriented projects should stay elsewhere). The collection may also include also abandoned projects, or proposals without a working implementation.
+A collection of blockchain-enabled social good projects, curated by [Blockchain@Unica](http://blockchain.unica.it/). To add a project to the collection, please check that it respects the following criteria: (1) the project must use a blockchain, of any kind; (2) the goals of the project must be coherent with the [UN Sustainable Development Goals](https://sustainabledevelopment.un.org/); (3) social good should be the primary goal of the project (preeminently business-oriented projects should stay elsewhere). The collection may also include abandoned projects, or proposals without a working implementation.
 
 
 ## Agriculture
