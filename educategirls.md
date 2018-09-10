@@ -25,10 +25,10 @@ At the end of the DIB program, if all the  targets are met, the initial investme
 the outcome payer, with interests up to 15 per cent, depending on how far the children’s learning targets are reached. Educate Girls
 will also receive part of this payment if it achieves its targets.
 
-Further info: 
-* http://instiglio.org/educategirlsdib/educate-girls-development-impact-bond-delivers-robust-second-year-results-valuable-lessons/ 
-* https://www.ubs.com/microsites/optimus-foundation/en/home.html
-* http://instiglio.org/educategirlsdib/  
+## Online resources: 
+* Second year assessments: http://instiglio.org/educategirlsdib/educate-girls-development-impact-bond-delivers-robust-second-year-results-valuable-lessons/ 
+* Final results: http://instiglio.org/educategirlsdib/  
+
 
 
 
