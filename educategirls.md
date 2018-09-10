@@ -28,6 +28,7 @@ will also receive part of this payment if it achieves its targets.
 ## Online resources: 
 * Second year assessments: http://instiglio.org/educategirlsdib/educate-girls-development-impact-bond-delivers-robust-second-year-results-valuable-lessons/ 
 * Final results: http://instiglio.org/educategirlsdib/  
+* Final report: http://instiglio.org/educategirlsdib/wp-content/uploads/2018/07/Educate-Girls-DIB_results_brochure_final-2.pdf
 
 
 
