@@ -66,7 +66,4 @@ online, hence, there was no smart contract to investigate.
 * SocialSuite https://socialsuitehq.com/
 * Cosmos website https://cosmos.network/
 * Tendermint website https://tendermint.com/
-*  Amply in press: https://bitcoinmagazine.com/articles/ixo-foundation-blockchain-based-response-un-call-data-revolution/ 
-*  Amply Project repository: https://github.com/TrustlabTech
-* Amply project discussed: https://medium.com/@Paul.Haas/blockchain-for-social-good-revolutionizing-pre-school-funding-in-south-africa-f0c7c63ee2ee 
 
