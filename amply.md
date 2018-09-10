@@ -8,7 +8,7 @@ a mobile application built upon the IXO protocol enables teachers to track atten
 impact claim is made, allowing access to government subsidies. The program serves about 700,000 kids aged two to five across thousands 
 of small centers around the country; the project has saved about  than 4,000 hours every month.
 
-## Further info:
+## Online resources:
 *  Amply in press: https://bitcoinmagazine.com/articles/ixo-foundation-blockchain-based-response-un-call-data-revolution/ 
 *  Amply Project repository: https://github.com/TrustlabTech
 *  Amply project discussed: https://medium.com/@Paul.Haas/blockchain-for-social-good-revolutionizing-pre-school-funding-in-south-africa-f0c7c63ee2ee 
