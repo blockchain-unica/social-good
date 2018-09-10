@@ -4,7 +4,7 @@ A collection of blockchain-enabled social good projects, curated by [Blockchain@
 
 ## Agriculture
 1. Agunity
-1. BananCoin
+1. BananaCoin
 1. Block Commodities
 1. Cacao Shares
 1. Ethic Hub
