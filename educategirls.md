@@ -2,7 +2,7 @@
 
 
 The [Educate Girls Development Impact Bonds (DIB)](https://www.educategirls.ngo/) project of 2015, has been developed usign the 
-[IXO platform](ixo.mv). It is about funding a three-year education program implemented by Indian NGO Educate Girls in a remote rural 
+[IXO platform](ixo.md). It is about funding a three-year education program implemented by Indian NGO Educate Girls in a remote rural 
 district of Rajasthan. The project measures progress against agreed targets (attendance and learning results) for the number of 
 out-of-school girls enrolled into primary education and the progress of girls and boys in English, Hindi and mathematics. 
 The mechanism of the DIB works like this:   a socially-motivated investor – in this case the UBS Optimus Foundation (UBSOF) - puts 
