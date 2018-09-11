@@ -3,7 +3,7 @@
 The  [Bananacoin](https://bananacoin.io/) project aims at gathering funds to create a banana plantation in Laos.
 The project will pay back investors, once that bananas have been harvested and sold. 
 
-The idea is about the creation of  Ethereum tokens ([BCO])(https://etherscan.io/token/0x5fb0cdf8f647e44e8ca96009c9a479df92c0744e), 
+The idea is about the creation of  Ethereum tokens ( [BCO](https://etherscan.io/token/0x5fb0cdf8f647e44e8ca96009c9a479df92c0744e) ), 
 whose price will be settled according to the   
 export price of 1 kilogram of  bananas.
 The gathered funds will be used to purchase  an area for banana cultivation and for the  preparation of  
