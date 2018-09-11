@@ -8,7 +8,7 @@ A collection of blockchain-enabled social good projects, curated by [Blockchain@
 1. BananaCoin
 1. Block Commodities
 1. Cacao Shares
-1. [Ethic Hub](ethichub.md)
+1. [EthicHub](ethichub.md)
 
 ## Democracy
 1. Civil
