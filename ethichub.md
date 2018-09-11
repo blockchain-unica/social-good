@@ -19,14 +19,13 @@ Risk assessments:
 * Presence of a security fund to protect investors.
 * Anyone can be a supervisor and create a new group.
 
-Questions:
-* is the security fund controlled by a smart contract or someone can manage it? 
-* in case the security control is managed by a person, which guarantees are offered? In case the security fund is controled by a 
-smart contract, who assess the security of the code?
-* who assess the security of the various  smart contracts?
+Issues: 
+* is the security fund only controlled by a smart contract or someone can manage it? 
+* in case the security fund is managed by a person, what guarantees are offered? In case the security fund is controled by a 
+smart contract, who assesses the security of the code?
 * the network  so constituted can lead to some un-ethic behaviour: ie. some big local node with  high reputation could  centralize 
-investment, preventing other nodes to emerge; ie. successfull local node could get bribes to accept new farmes, etc. How will 
-these possibility managed?  
-* the local node supervisor should secure that farmers -- who do not default-- will pay back investors. Are we guaranteed that this is
-done in an ethic manner?
+investments, preventing other nodes to emerge; or successfull local node could get bribes to accept new farmes. How will 
+these possibilities be discouraged?  
+* the role of the local node supervisor is such that he should secure that farmers will pay back investors. Are we guaranteed that this
+is done in an ethic manner?
 
