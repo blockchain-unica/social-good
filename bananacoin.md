@@ -1,6 +1,6 @@
 # Bananacoin
 
-The project Bananacoin aims at finding funding for the cultivation of  bananas in Laos.
+The  [Bananacoin](https://bananacoin.io/) project aims at finding funding for the cultivation of  bananas in Laos.
 The project will pay back investors, once that bananas have been harvested and sold. 
 
 The idea is about the creation of  Ethereum tokens (BCO), whose price will be settled according to the   
