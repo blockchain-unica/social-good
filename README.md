@@ -36,6 +36,7 @@ A collection of blockchain-enabled social good projects, curated by [Blockchain@
 1. Beatrix
 1. Catenaut
 1. Clean Water Coin
+1. Decibel.LIVE
 1. ElectricChain
 1. EverLedger
 1. Flux
@@ -48,6 +49,7 @@ A collection of blockchain-enabled social good projects, curated by [Blockchain@
 1. Proyecto Colmena
 1. RecycleToCoin
 1. SunContract
+1. Tokenimals
 1. Veridium
 1. WaterLedger
 
@@ -79,6 +81,7 @@ A collection of blockchain-enabled social good projects, curated by [Blockchain@
 
 ## Health
 1. Cardium
+1. dHealthNetwork
 1. Health Verity
 1. SimplyVital Health
 
@@ -106,6 +109,8 @@ A collection of blockchain-enabled social good projects, curated by [Blockchain@
 1. Code to Inspire
 1. Dark Inquiry
 1. Distributed Giving Project
+1. EthPledge
+1. FugueFoundation
 1. Giftcoin
 1. Give directly
 1. GIVE Foundation
@@ -118,6 +123,7 @@ A collection of blockchain-enabled social good projects, curated by [Blockchain@
 1. Hypergive
 1. KindTrust
 1. Positive Women
+1. ProofOfHumanity
 1. RootProject
 1. Urban Array
 1. Weifund
