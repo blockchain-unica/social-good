@@ -9,6 +9,7 @@ A collection of blockchain-enabled social good projects, curated by [Blockchain@
 1. Block Commodities
 1. [Cacao Shares](cacaoshares.md)
 1. [EthicHub](ethichub.md)
+1. GreenLink
 
 ## Democracy
 1. Civil
@@ -37,6 +38,7 @@ A collection of blockchain-enabled social good projects, curated by [Blockchain@
 1. Catenaut
 1. Clean Water Coin
 1. Decibel.LIVE
+1. Earth Token
 1. ElectricChain
 1. EverLedger
 1. Flux
@@ -89,6 +91,7 @@ A collection of blockchain-enabled social good projects, curated by [Blockchain@
 1. Anacoin
 1. Handshake
 1. Hu-manity.co
+1. LGBT Token
 1. Mannabase
 1. MazaCoin
 
