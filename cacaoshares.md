@@ -20,9 +20,6 @@ First release of Cacao Shares will be 100 million tokens. These 100 million Caca
 According to the [chart](https://etherscan.io/token/tokenholderchart/0x315ce59fafd3a8d562b7ec1c8542382d2710b06c), token holders have 
 bought only 2% of the total coin supply. 
 
-Risks assessments:
-* no risks assessment present in the papaer
+There is not a risk assessment evaluation in the white paper.
 
-Issues:
-* it is not clear when and how much money will the investors receive
-* there are no guarantees that someone will pay back investors
+
