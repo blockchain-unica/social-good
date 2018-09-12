@@ -74,6 +74,7 @@ A collection of blockchain-enabled social good projects, curated by [Blockchain@
 1. SureRemit
 1. MonedaPAR
 1. Neighborly
+1. Rebit
 1. SureRemit
 1. Suretly
 1. Trusted Lending Circles
