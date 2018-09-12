@@ -30,6 +30,7 @@ A collection of blockchain-enabled social good projects, curated by [Blockchain@
 1. [Amply](amply.md)
 1. [EducateGirls](educategirls.md)
 1. Femergy
+1. Open Source University
 1. [SmartSib](smartsib.md)
 
 ## Environment
