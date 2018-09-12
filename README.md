@@ -19,7 +19,7 @@ A collection of blockchain-enabled social good projects, curated by [Blockchain@
 
 ## Digital Identity
 1. AidTech
-1. BanQu
+1. [BanQu](banqu.md)
 1. Fummy
 1. I AM
 1. SelfKey
