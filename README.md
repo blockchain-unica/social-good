@@ -14,6 +14,7 @@ A collection of blockchain-enabled social good projects, curated by [Blockchain@
 ## Democracy
 1. Civil
 1. Infrachain
+1. Sovereign
 1. Stoneblock
 
 ## Digital Identity
