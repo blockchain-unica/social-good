@@ -134,6 +134,7 @@ A collection of blockchain-enabled social good projects, curated by [Blockchain@
 1. Positive Women
 1. ProofOfHumanity
 1. RootProject
+1. [*SupPorter*](https://www.supporterinc.com/)
 1. Urban Array
 1. Weifund
 
