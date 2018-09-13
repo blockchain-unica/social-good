@@ -52,10 +52,10 @@ A collection of blockchain-enabled social good projects, curated by [Blockchain@
 1. [*Poseidon*](https://poseidon.eco/)
 1. [*Proyecto Colmena*](http://www.proyectocolmenar.org/)
 1. [*RecycleToCoin*](https://www.recycletocoin.com/)
-1. SunContract
+1. [*SunContract*](https://suncontract.org/)
 1. Tokenimals
 1. Veridium
-1. WaterLedger
+1. [*WaterLedger*](http://www.civicledger.com/civic/)
 
 ## Financial Inclusion
 1. Abra
