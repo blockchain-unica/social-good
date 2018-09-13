@@ -5,10 +5,10 @@ A collection of blockchain-enabled social good projects, curated by [Blockchain@
 
 ## Agriculture
 1. [Agunity](Agriculture/agunity.md)
-1. [Bananacoin](bananacoin.md)
+1. [Bananacoin](Agriculture/bananacoin.md)
 1. Block Commodities
-1. [Cacao Shares](cacaoshares.md)
-1. [EthicHub](ethichub.md)
+1. [Cacao Shares](Agriculture/cacaoshares.md)
+1. [EthicHub](Agriculture/ethichub.md)
 1. GreenLink
 
 ## Democracy
@@ -19,7 +19,7 @@ A collection of blockchain-enabled social good projects, curated by [Blockchain@
 
 ## Digital Identity
 1. AidTech
-1. [BanQu](banqu.md)
+1. [BanQu](Digital Identity/banqu.md)
 1. Fummy
 1. I AM
 1. SelfKey
@@ -27,11 +27,11 @@ A collection of blockchain-enabled social good projects, curated by [Blockchain@
 1. Uport
 
 ## Education
-1. [Amply](amply.md)
-1. [EducateGirls](educategirls.md)
+1. [Amply](Education/amply.md)
+1. [EducateGirls](Education/educategirls.md)
 1. Femergy
 1. Open Source University
-1. [SmartSib](smartsib.md)
+1. [SmartSib](Education/smartsib.md)
 
 ## Environment
 1. 4NEW
