@@ -6,56 +6,56 @@ A collection of blockchain-enabled social good projects, curated by [Blockchain@
 ## Agriculture
 1. [Agunity](Agriculture/agunity.md)
 1. [Bananacoin](Agriculture/bananacoin.md)
-1. [*Block Commodities*](http://www.blockcommodities.com/)
+1. Block Commodities
 1. [Cacao Shares](Agriculture/cacaoshares.md)
 1. [EthicHub](Agriculture/ethichub.md)
 1. GreenLink
 
 ## Democracy
-1. [*Civil*](https://civil.co/)
-1. [*Infrachain*](https://infrachain.com/)
+1. Civil
+1. Infrachain
 1. Sovereign
 1. Stoneblock
 
 ## Digital Identity
-1. [*AidTech*](https://tge.aid.technology/)
+1. AidTech
 1. [BanQu](Digital_Identity/banqu.md)
-1. Fummy[*](https://www.fastcompany.com/40500978/this-new-blockchain-project-gives-homeless-new-yorkers-a-digital-identity)
-1. [*I AM*](https://www.luke1037.org/projectiam/)
-1. [*SelfKey*](https://selfkey.org/)
-1. [*Taqanu*](https://www.taqanu.com/)
-1. [*Uport*](https://www.uport.me/)
+1. Fummy
+1. I AM
+1. SelfKey
+1. Taqanu
+1. Uport
 
 ## Education
 1. [Amply](Education/amply.md)
 1. [EducateGirls](Education/educategirls.md)
-1. [*Femergy*](https://www.femergy.io/)
+1. Femergy
 1. Open Source University
 1. [SmartSib](Education/smartsib.md)
 
 ## Environment
-1. [*4NEW*](https://4new.io/)
-1. [*Batan*](http://batan.io/)
-1. [*Beatrix*](https://www.beatrix.social/)
-1. [*Catenaut*](https://www.catenaut.com/)
-1. [*Clean Water Coin*](http://www.cleanwatercoin.org/)
+1. 4NEW
+1. Batan
+1. Beatrix
+1. Catenaut
+1. Clean Water Coin
 1. Decibel.LIVE
 1. Earth Token
 1. ElectricChain
-1. [*EverLedger*](https://www.everledger.io/)
-1. [*Flux*](https://www.fluxtoken.io/)
-1. [*FoodTrax*](https://www.bcdc.online/foodtrax)
+1. EverLedger
+1. Flux
+1. FoodTrax
 1. Fremantle Power Ledger Platform
-1. [*Genesis Research*](http://watertoken.io/#about)
-1. [*La'Zooz*](http://lazooz.org/)
+1. Genesis Research
+1. La'Zooz
 1. Plastic Bank
-1. [*Poseidon*](https://poseidon.eco/)
-1. [*Proyecto Colmena*](http://www.proyectocolmenar.org/)
-1. [*RecycleToCoin*](https://www.recycletocoin.com/)
-1. [*SunContract*](https://suncontract.org/)
+1. Poseidon
+1. Proyecto Colmena
+1. RecycleToCoin
+1. SunContract
 1. Tokenimals
 1. Veridium
-1. [*WaterLedger*](http://www.civicledger.com/civic/)
+1. WaterLedger
 
 ## Financial Inclusion
 1. Abra
@@ -110,10 +110,10 @@ A collection of blockchain-enabled social good projects, curated by [Blockchain@
 1. Benefactory
 1. BitConscious Foundation
 1. BitHope
-1. [*Borneo*](https://www.borneofirst.com/)
+1. Borneo
 1. CharitySpace
 1. CharityToken
-1. [*ClearAid*](https://www.clearaid.org/)
+1. ClearAid
 1. Code to Inspire
 1. Dark Inquiry
 1. Distributed Giving Project
@@ -134,7 +134,7 @@ A collection of blockchain-enabled social good projects, curated by [Blockchain@
 1. Positive Women
 1. ProofOfHumanity
 1. RootProject
-1. [*SupPorter*](https://www.supporterinc.com/)
+1. SupPorter
 1. Urban Array
 1. Weifund
 
