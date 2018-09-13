@@ -110,6 +110,7 @@ A collection of blockchain-enabled social good projects, curated by [Blockchain@
 1. Benefactory
 1. BitConscious Foundation
 1. BitHope
+1. [*Borneo*](https://www.borneofirst.com/)
 1. CharitySpace
 1. CharityToken
 1. Code to Inspire
