@@ -68,7 +68,7 @@ A collection of blockchain-enabled social good projects, curated by [Blockchain@
 1. Circles
 1. Everex
 1. Govcoin
-1. HumaniQ
+1. [HumaniQ](Financial_Inclusion/humaniq.md)
 1. Impak coin
 1. Kora
 1. Moeda
