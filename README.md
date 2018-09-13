@@ -44,14 +44,14 @@ A collection of blockchain-enabled social good projects, curated by [Blockchain@
 1. ElectricChain
 1. [*EverLedger*](https://www.everledger.io/)
 1. [*Flux*](https://www.fluxtoken.io/)
-1. FoodTrax
+1. [*FoodTrax*](https://www.bcdc.online/foodtrax)
 1. Fremantle Power Ledger Platform
-1. Genesis Research
-1. La'Zooz
+1. [*Genesis Research*](http://watertoken.io/#about)
+1. [*La'Zooz*](http://lazooz.org/)
 1. Plastic Bank
-1. Poseidon
-1. Proyecto Colmena
-1. RecycleToCoin
+1. [*Poseidon*](https://poseidon.eco/)
+1. [*Proyecto Colmena*](http://www.proyectocolmenar.org/)
+1. [*RecycleToCoin*](https://www.recycletocoin.com/)
 1. SunContract
 1. Tokenimals
 1. Veridium
