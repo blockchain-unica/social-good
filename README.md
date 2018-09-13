@@ -6,44 +6,44 @@ A collection of blockchain-enabled social good projects, curated by [Blockchain@
 ## Agriculture
 1. [Agunity](Agriculture/agunity.md)
 1. [Bananacoin](Agriculture/bananacoin.md)
-1. Block Commodities
+1. [*Block Commodities*](http://www.blockcommodities.com/)
 1. [Cacao Shares](Agriculture/cacaoshares.md)
 1. [EthicHub](Agriculture/ethichub.md)
 1. GreenLink
 
 ## Democracy
-1. Civil
-1. Infrachain
+1. [*Civil*](https://civil.co/)
+1. [*Infrachain*](https://infrachain.com/)
 1. Sovereign
 1. Stoneblock
 
 ## Digital Identity
-1. AidTech
+1. [*AidTech*](https://tge.aid.technology/)
 1. [BanQu](Digital_Identity/banqu.md)
 1. Fummy
-1. I AM
-1. SelfKey
-1. Taqanu
-1. Uport
+1. [*I AM*](https://www.luke1037.org/projectiam/)
+1. [*SelfKey*](https://selfkey.org/)
+1. [*Taqanu*](https://www.taqanu.com/)
+1. [*Uport*](https://www.uport.me/)
 
 ## Education
 1. [Amply](Education/amply.md)
 1. [EducateGirls](Education/educategirls.md)
-1. Femergy
+1. [*Femergy*](https://www.femergy.io/)
 1. Open Source University
 1. [SmartSib](Education/smartsib.md)
 
 ## Environment
-1. 4NEW
-1. Batan
-1. Beatrix
-1. Catenaut
-1. Clean Water Coin
+1. [*4NEW*](https://4new.io/)
+1. [*Batan*](http://batan.io/)
+1. [*Beatrix*](https://www.beatrix.social/)
+1. [*Catenaut*](https://www.catenaut.com/)
+1. [*Clean Water Coin*](http://www.cleanwatercoin.org/)
 1. Decibel.LIVE
 1. Earth Token
 1. ElectricChain
-1. EverLedger
-1. Flux
+1. [*EverLedger*](https://www.everledger.io/)
+1. [*Flux*](https://www.fluxtoken.io/)
 1. FoodTrax
 1. Fremantle Power Ledger Platform
 1. Genesis Research
