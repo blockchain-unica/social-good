@@ -113,6 +113,7 @@ A collection of blockchain-enabled social good projects, curated by [Blockchain@
 1. [*Borneo*](https://www.borneofirst.com/)
 1. CharitySpace
 1. CharityToken
+1. [*ClearAid*](https://www.clearaid.org/)
 1. Code to Inspire
 1. Dark Inquiry
 1. Distributed Giving Project
