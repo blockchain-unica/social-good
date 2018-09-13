@@ -116,6 +116,7 @@ A collection of blockchain-enabled social good projects, curated by [Blockchain@
 1. Dark Inquiry
 1. Distributed Giving Project
 1. EthPledge
+1. [ETH93](Philantrophy/eth93.md)
 1. FugueFoundation
 1. Giftcoin
 1. Give directly
