@@ -6,10 +6,10 @@ A collection of blockchain-enabled social good projects, curated by [Blockchain@
 ## Agriculture
 1. [Agunity](Agriculture/agunity.md)
 1. [Bananacoin](Agriculture/bananacoin.md)
-1. Block Commodities
+1. [Block Commodities](Agriculture/blockcommodities.md)
 1. [Cacao Shares](Agriculture/cacaoshares.md)
 1. [EthicHub](Agriculture/ethichub.md)
-1. GreenLink
+1. [GreenLink](Agriculure/greenlink.md)
 
 ## Democracy
 1. Civil
