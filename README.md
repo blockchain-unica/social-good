@@ -9,13 +9,13 @@ A collection of blockchain-enabled social good projects, curated by [Blockchain@
 1. [Block Commodities](Agriculture/blockcommodities.md)
 1. [Cacao Shares](Agriculture/cacaoshares.md)
 1. [EthicHub](Agriculture/ethichub.md)
-1. [GreenLink](Agriculure/greenlink.md)
+1. [GreenLink](Agriculture/greenlink.md)
 
 ## Democracy
-1. Civil
-1. Infrachain
-1. Sovereign
-1. Stoneblock
+1. [Civil](Democracy/civil.md)
+1. [Infrachain](Democracy/infrachain.md)
+1. [Sovereign](Democracy/sovereign.md)
+1. [Stoneblock](Democracy/stoneblock.md)
 
 ## Digital Identity
 1. AidTech
