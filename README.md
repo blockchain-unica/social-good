@@ -20,7 +20,7 @@ A collection of blockchain-enabled social good projects, curated by [Blockchain@
 ## Digital Identity
 1. [*AidTech*](https://tge.aid.technology/)
 1. [BanQu](Digital_Identity/banqu.md)
-1. Fummy
+1. Fummy[*](https://www.fastcompany.com/40500978/this-new-blockchain-project-gives-homeless-new-yorkers-a-digital-identity)
 1. [*I AM*](https://www.luke1037.org/projectiam/)
 1. [*SelfKey*](https://selfkey.org/)
 1. [*Taqanu*](https://www.taqanu.com/)
