@@ -15,7 +15,7 @@ who are   working with trusted custodians.
 *   A project to do  [remittances]( http://www.rs.undp.org/content/serbia/en/home/presscenter/articles/2018/br_e--sigurnije-i-jeftinije-slanje-novca-iz-dijaspore-u-maticu.html) 
 is to be started in Serbia in August 2018. The project is about conditional remittances: when a donor
 send money (ie. dollars) home, they can decide how and when the money should be spent.
-This solution is integrated  with èStripe+(https://stripe.com/it), a U.S. company secialized in safe online payments,   
+This solution is integrated  with [Stripe](https://stripe.com/it), a U.S. company secialized in safe online payments,   
 to enable the use of credit  and debit card payments, reducing the   costs of remittances to 3%.
 
 * [TraceDonate](https://www.tracedonate.com/) is the application to make donations, developped in partnership with the 
