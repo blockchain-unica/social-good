@@ -1,3 +1,3 @@
-# waterledger 
+# Water Ledger 
 
-[waterledger]()
+[Water Ledger](http://www.civicledger.com/civic/)

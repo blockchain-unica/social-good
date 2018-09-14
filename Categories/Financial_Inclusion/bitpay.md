@@ -1,3 +1,3 @@
-# bitpay 
+# BitPay 
 
-[bitpay]()
+[BitPay](https://bitpay.com/)

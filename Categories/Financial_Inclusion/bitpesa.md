@@ -1,3 +1,3 @@
-# bitpesa 
+# BitPesa 
 
-[bitpesa]()
+[BitPesa](https://www.bitpesa.co/)

@@ -1,3 +1,3 @@
-# veridium 
+# VERIDIUM 
 
-[veridium]()
+[VERIDIUM](https://www.veridium.io/)

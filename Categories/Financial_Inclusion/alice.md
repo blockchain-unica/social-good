@@ -1,3 +1,3 @@
-# alice 
+# Alice 
 
-[alice]()
+[Alice](http://alice.si/)

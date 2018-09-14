@@ -1,3 +1,3 @@
-# tokenimals 
+# TOKENIMALS 
 
-[tokenimals]()
+[TOKENIMALS](https://www.tokenimals.com/)
