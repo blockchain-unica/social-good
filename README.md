@@ -20,17 +20,17 @@ A collection of blockchain-enabled social good projects, curated by [Blockchain@
 ## Digital Identity
 1. [AidTech](Digital_Identity/aidtech.md)
 1. [BanQu](Digital_Identity/banqu.md)
-1. [Fummy](Digital_Identity/fummy.d)
+1. [Fummy](Digital_Identity/fummy.md)
 1. [I AM](Digital_Identity/iam.md)
 1. [SelfKey](Digital_Identity/selfkey.md)
 1. [Taqanu](Digital_Identity/taqanu.md)
-1. [Uport](Digital_Identity/uport.me)
+1. [Uport](Digital_Identity/uport.md)
 
 ## Education
 1. [Amply](Education/amply.md)
 1. [EducateGirls](Education/educategirls.md)
-1. Femergy
-1. Open Source University
+1. [Femergy](Education/femergy.md)
+1. [Open Source University](Education/opensourceuniversity.md)
 1. [SmartSib](Education/smartsib.md)
 
 ## Environment
