@@ -1,140 +1,138 @@
 # Blockchain for social good
 
-A collection of blockchain-enabled social good projects, curated by [Blockchain@Unica](Category/http://blockchain.unica.it/). To add a project to the collection, please check that it respects the following criteria: (1) the project must use a blockchain, of any kind; (2) the goals of the project must be coherent with the [UN Sustainable Development Goals](Category/https://sustainabledevelopment.un.org/); (3) social good should be the primary goal of the project (preeminently business-oriented projects should stay elsewhere). The collection may also include abandoned projects, or proposals without a working implementation.
+A collection of blockchain-enabled social good projects, curated by [Blockchain@Unica](Categories/http://blockchain.unica.it/). To add a project to the collection, please check that it respects the following criteria: (1) the project must use a blockchain, of any kind; (2) the goals of the project must be coherent with the [UN Sustainable Development Goals](Categories/https://sustainabledevelopment.un.org/); (3) social good should be the primary goal of the project (preeminently business-oriented projects should stay elsewhere). The collection may also include abandoned projects, or proposals without a working implementation.
 
 
 ## Agriculture
-1. [Agunity](Category/Agriculture/agunity.md)
-1. [Bananacoin](Category/Agriculture/bananacoin.md)
-1. [Block Commodities](Category/Agriculture/blockcommodities.md)
-1. [Cacao Shares](Category/Agriculture/cacaoshares.md)
-1. [EthicHub](Category/Agriculture/ethichub.md)
-1. [GreenLink](Category/Agriculture/greenlink.md)
+1. [Agunity](Categories/Agriculture/agunity.md)
+1. [Bananacoin](Categories/Agriculture/bananacoin.md)
+1. [Block Commodities](Categories/Agriculture/blockcommodities.md)
+1. [Cacao Shares](Categories/Agriculture/cacaoshares.md)
+1. [EthicHub](Categories/Agriculture/ethichub.md)
+1. [GreenLink](Categories/Agriculture/greenlink.md)
 
 ## Democracy
-1. [Civil](Category/Democracy/civil.md)
-1. [Infrachain](Category/Democracy/infrachain.md)
-1. [Sovereign](Category/Democracy/sovereign.md)
-1. [Stoneblock](Category/Democracy/stoneblock.md)
+1. [Civil](Categories/Democracy/civil.md)
+1. [Infrachain](Categories/Democracy/infrachain.md)
+1. [Sovereign](Categories/Democracy/sovereign.md)
+1. [Stoneblock](Categories/Democracy/stoneblock.md)
 
 ## Digital Identity
-1. [AidTech](Category/Digital_Identity/aidtech.md)
-1. [BanQu](Category/Digital_Identity/banqu.md)
-1. [Fummy](Category/Digital_Identity/fummy.md)
-1. [I AM](Category/Digital_Identity/iam.md)
-1. [SelfKey](Category/Digital_Identity/selfkey.md)
-1. [Taqanu](Category/Digital_Identity/taqanu.md)
-1. [Uport](Category/Digital_Identity/uport.md)
+1. [AidTech](Categories/Digital_Identity/aidtech.md)
+1. [BanQu](Categories/Digital_Identity/banqu.md)
+1. [Fummy](Categories/Digital_Identity/fummy.md)
+1. [HumaniQ](Categories/Digital_Identity/humaniq.md)
+1. [I AM](Categories/Digital_Identity/iam.md)
+1. [SelfKey](Categories/Digital_Identity/selfkey.md)
+1. [Taqanu](Categories/Digital_Identity/taqanu.md)
+1. [Uport](Categories/Digital_Identity/uport.md)
 
 ## Education
-1. [Amply](Category/Education/amply.md)
-1. [EducateGirls](Category/Education/educategirls.md)
-1. [Femergy](Category/Education/femergy.md)
-1. [Open Source University](Category/Education/opensourceuniversity.md)
-1. [SmartSib](Category/Education/smartsib.md)
+1. [Amply](Categories/Education/amply.md)
+1. [EducateGirls](Categories/Education/educategirls.md)
+1. [Femergy](Categories/Education/femergy.md)
+1. [Open Source University](Categories/Education/opensourceuniversity.md)
+1. [SmartSib](Categories/Education/smartsib.md)
 
 ## Environment
-1. 4NEW
-1. Batan
-1. Beatrix
-1. Catenaut
-1. Clean Water Coin
-1. Decibel.LIVE
-1. Earth Token
-1. ElectricChain
-1. EverLedger
-1. Flux
-1. FoodTrax
-1. Fremantle Power Ledger Platform
-1. Genesis Research
-1. La'Zooz
-1. Plastic Bank
-1. Poseidon
-1. Proyecto Colmena
-1. RecycleToCoin
-1. SunContract
-1. Tokenimals
-1. Veridium
-1. WaterLedger
+1. [4NEW](Categories/Environment/4new.md)
+1. [Batan](Categories/Environment/bata.md)
+1. [Beatrix](Categories/Environment/beatrix.md)
+1. [Catenaut](Categories/Environment/catenaut.md)
+1. [Clean Water Coin](Categories/Environment/cleanwatercoin.md)
+1. [Decibel.LIVE](Categories/Environment/decibellive.md)
+1. [Earth Token](Categories/Environment/earthtoken.md)
+1. [ElectricChain](Categories/Environment/electricchain.md)
+1. [EverLedger](Categories/Environment/everledger.md)
+1. [Flux](Categories/Environment/flux.md)
+1. [FoodTrax](Categories/Environment/foodtrax.md)
+1. [Fremantle Power Ledger Platform](Categories/Environment/fremantlepowerledgerplatform.md)
+1. [Genesis Research](Categories/Environment/genesisresearch.md)
+1. [La'Zooz](Categories/Environment/lazooz.md)
+1. [Plastic Bank](Categories/Environment/plasticbank.md)
+1. [Poseidon](Categories/Environment/poseidon.md)
+1. [Proyecto Colmena](Categories/Environment/proyectocolmena.md)
+1. [RecycleToCoin](Categories/Environment/recycletocoin.md)
+1. [SunContract](Categories/Environment/suncontract.md)
+1. [Tokenimals](Categories/Environment/tokenimals.md)
+1. [Veridium](Categories/Environment/veridium.md)
+1. [WaterLedger](Categories/Environment/waterledger.md)
 
 ## Financial Inclusion
-1. Abra
-1. Alice
-1. ALMBank
-1. BitPay
-1. BitPesa
-1. Change Bank
-1. Charity DAO
-1. Circles
-1. Everex
-1. Govcoin
-1. [HumaniQ](Category/Financial_Inclusion/humaniq.md)
-1. Impak coin
-1. Kora
-1. Moeda
-1. Pinkcoin
-1. SureRemit
-1. MonedaPAR
-1. Neighborly
-1. Rebit
-1. SureRemit
-1. Suretly
-1. Trusted Lending Circles
-1. Unicoin
-1. Wala
-1. WFP
+1. [Abra](Categories/Financial_Inclusion/abra.md)
+1. [Alice](Categories/Financial_Inclusion/alice.md)
+1. [ALMBank](Categories/Financial_Inclusion/almbank.md)
+1. [BitPay](Categories/Financial_Inclusion/bitpay.md)
+1. [BitPesa](Categories/Financial_Inclusion/bitpesa.md)
+1. [Change Bank](Categories/Financial_Inclusion/changebank.md)
+1. [Charity DAO](Categories/Financial_Inclusion/charitydao.md)
+1. [Circles](Categories/Financial_Inclusion/circles.md)
+1. [Everex](Categories/Financial_Inclusion/everex.md)
+1. [Govcoin](Categories/Financial_Inclusion/govcoin.md)
+1. [Impak coin](Categories/Financial_Inclusion/impakcoin.md)
+1. [Kora](Categories/Financial_Inclusion/kora.md)
+1. [Moeda](Categories/Financial_Inclusion/moeda.md)
+1. [Pinkcoin](Categories/Financial_Inclusion/pinkcoin.md)
+1. [MonedaPAR](Categories/Financial_Inclusion/monedapar.md)
+1. [Neighborly](Categories/Financial_Inclusion/neighborly.md)
+1. [Rebit](Categories/Financial_Inclusion/rebit.md)
+1. [SureRemit](Categories/Financial_Inclusion/sureremit.md)
+1. [Suretly](Categories/Financial_Inclusion/suretly.md)
+1. [Trusted Lending Circles](Categories/Financial_Inclusion/trustedlendingcircles.md)
+1. [Unicoin](Categories/Financial_Inclusion/unicoin.md)
+1. [Wala](Categories/Financial_Inclusion/wala.md)
+1. [WFP](Categories/Financial_Inclusion/wfp.md)
 
 ## Health
-1. Cardium
-1. dHealthNetwork
-1. Health Verity
-1. SimplyVital Health
+1. [Cardium](Categories/Health/cardium.md)
+1. [dHealthNetwork](Categories/Health/dhealthnetwork.md)
+1. [Health Verity](Categories/Health/healthverity.md)
+1. [SimplyVital Health](Categories/Health/simplyvitalhealth.md)
 
 ## Human Rights
-1. Anacoin
-1. Handshake
-1. Hu-manity.co
-1. LGBT Token
-1. Mannabase
-1. MazaCoin
+1. [Anacoin](Categories/Human_Righs/anacoin.md)
+1. [Handshake](Categories/Human_Righs/handshake.md)
+1. [Hu-manity.co](Categories/Human_Righs/humanity.md)
+1. [LGBT Token](Categories/Human_Righs/lgbttoken.md)
+1. [Mannabase](Categories/Human_Righs/mannabase.md)
+1. [MazaCoin](Categories/Human_Righs/mazacoin.md)
 
 ## Land Rights
-1. BitFury
-1. BitLand
-1. Propy
+1. [BitFury](Categories/Land_Rights/bitfury.md)
+1. [BitLand](Categories/Land_Rights/bitland.md)
+1. [Propy](Categories/Land_Rights/propy.md)
 
 ## Philantrophy
-1. Aidcoin
-1. AntLove
-1. BCharity
-1. Benefactory
-1. BitConscious Foundation
-1. BitHope
-1. Borneo
-1. CharitySpace
-1. CharityToken
-1. ClearAid
-1. Code to Inspire
-1. Dark Inquiry
-1. Distributed Giving Project
-1. EthPledge
-1. [ETH93](Category/Philantrophy/eth93.md)
-1. FugueFoundation
-1. Giftcoin
-1. Give directly
-1. GIVE Foundation
-1. Giveth
-1. GiveTrack
-1. GoodCoin
-1. IGave
-1. Helperbit
-1. Humanity Road
-1. Hypergive
-1. KindTrust
-1. Positive Women
-1. ProofOfHumanity
-1. RootProject
-1. SupPorter
-1. Urban Array
-1. Weifund
-
+1. [Aidcoin](Categories/Philantrophy/)
+1. [AntLove](Categories/Philantrophy/)
+1. [BCharity](Categories/Philantrophy/)
+1. [Benefactory](Categories/Philantrophy/)
+1. [BitConscious Foundation](Categories/Philantrophy/)
+1. [BitHope](Categories/Philantrophy/)
+1. [Borneo](Categories/Philantrophy/)
+1. [CharitySpace](Categories/Philantrophy/)
+1. [CharityToken](Categories/Philantrophy/)
+1. [ClearAid](Categories/Philantrophy/)
+1. [Code to Inspire](Categories/Philantrophy/)
+1. [Dark Inquiry](Categories/Philantrophy/)
+1. [Distributed Giving Project](Categories/Philantrophy/)
+1. [EthPledge](Categories/Philantrophy/)
+1. [ETH93](Categories/Philantrophy/eth93.md)
+1. [FugueFoundation](Categories/Philantrophy/)
+1. [Giftcoin](Categories/Philantrophy/)
+1. [Give directly](Categories/Philantrophy/)
+1. [GIVE Foundation](Categories/Philantrophy/)
+1. [Giveth](Categories/Philantrophy/)
+1. [GiveTrack](Categories/Philantrophy/)
+1. [GoodCoin](Categories/Philantrophy/)
+1. [IGave](Categories/Philantrophy/)
+1. [Helperbit](Categories/Philantrophy/)
+1. [Humanity Road](Categories/Philantrophy/)
+1. [Hypergive](Categories/Philantrophy/)
+1. [KindTrust](Categories/Philantrophy/)
+1. [Positive Women](Categories/Philantrophy/)
+1. [ProofOfHumanity](Categories/Philantrophy/)
+1. [RootProject](Categories/Philantrophy/)
+1. [SupPorter](Categories/Philantrophy/)
+1. [Urban Array](Categories/Philantrophy/)
+1. [Weifund](Categories/Philantrophy/)
