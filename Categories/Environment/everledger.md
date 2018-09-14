@@ -1,3 +1,3 @@
-# everledger 
+# EVERLEDGER 
 
-[everledger]()
+[EVERLEDGER](https://www.everledger.io/)

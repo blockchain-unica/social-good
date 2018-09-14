@@ -1,3 +1,3 @@
-# genesisresearch 
+# Genesis Research & Technology Group  
 
-[genesisresearch]()
+[Genesis Research & Technology Group](http://watertoken.io/#about)

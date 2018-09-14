@@ -1,3 +1,3 @@
-# poseidon 
+# Poseidon 
 
-[poseidon]()
+[Poseidon](https://poseidon.eco/)

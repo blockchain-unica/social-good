@@ -1,3 +1,3 @@
-# foodtrax 
+# FoodTrax 
 
-[foodtrax]()
+[FoodTrax](https://www.bcdc.online/foodtrax)

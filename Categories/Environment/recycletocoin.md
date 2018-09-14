@@ -1,3 +1,3 @@
-# recycletocoin 
+# RECYCLE to COIN 
 
-[recycletocoin]()
+[RECYCLE to COIN](https://www.recycletocoin.com/)

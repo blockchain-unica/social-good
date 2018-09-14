@@ -1,3 +1,3 @@
-# beatrix 
+# BEATRIX 
 
-[beatrix]()
+[BEATRIX](https://www.beatrix.social/)

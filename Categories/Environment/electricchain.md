@@ -1,3 +1,3 @@
-# electricchain 
+# ElectriCChain 
 
-[electricchain]()
+[ElectriCChain](http://www.electricchain.org/)

@@ -1,3 +1,3 @@
-# flux 
+# Flux 
 
-[flux]()
+[Flux](https://www.fluxtoken.io/)

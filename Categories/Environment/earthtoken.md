@@ -1,3 +1,3 @@
-# earthtoken 
+# Earth Token 
 
-[earthtoken]()
+[Earth Token](https://earth-token.com/)

@@ -1,3 +1,3 @@
-# batan 
+# Batan 
 
-[batan]()
+[Batan](http://batan.io/)
