@@ -1,3 +1,3 @@
-# humanity 
+# Hu-manity 
 
-[humanity]()
+[Hu-manity](https://hu-manity.co/)

@@ -1,3 +1,3 @@
-# bitfury 
+# BitFury 
 
-[bitfury]()
+[BitFury](https://bitfury.com/)

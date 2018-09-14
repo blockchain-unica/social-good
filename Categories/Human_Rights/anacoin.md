@@ -1,3 +1,3 @@
-# anacoin 
+# Anacoins 
 
-[anacoin]()
+[Anacoins](https://ananas.org.uk/)

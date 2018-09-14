@@ -1,3 +1,3 @@
-# lgbttoken 
+# LGBT token 
 
-[lgbttoken]()
+[LGBT token](https://lgbt-token.org/)

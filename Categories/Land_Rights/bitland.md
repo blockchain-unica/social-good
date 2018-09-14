@@ -1,3 +1,3 @@
-# bitland 
+# Bitland 
 
-[bitland]()
+[Bitland](http://landing.bitland.world/)

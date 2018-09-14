@@ -1,3 +1,3 @@
-# mazacoin 
+# MAZA 
 
-[mazacoin]()
+[MAZA](https://www.mazacoin.org/)

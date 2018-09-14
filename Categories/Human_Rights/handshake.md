@@ -1,3 +1,3 @@
-# handshake 
+# HANDSHAKE 
 
-[handshake]()
+[HANDSHAKE](http://handshake.tech/index.html)

@@ -1,3 +1,3 @@
-# cardium 
+# Cardium 
 
-[cardium]()
+[Cardium](https://cardium.world/)

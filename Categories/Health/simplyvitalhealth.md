@@ -1,3 +1,3 @@
-# simplyvitalhealth 
+# simplyvital health 
 
-[simplyvitalhealth]()
+[simplyvital health](https://www.simplyvitalhealth.com/)
