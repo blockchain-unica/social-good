@@ -11,8 +11,7 @@ exchangeable for a certain amount of bananas or equivalent  monetary compensatio
 
 The whole project assumes that the price of bananas will increase, and that farmers will buy tokens back. 
 The price for token is regulated by the market and it will be the one of 1 kg of bananas.
-At the moment (september 2018), plants should be growing. According to the [chart](https://etherscan.io/token/tokenholderchart
-/0x5fb0cdf8f647e44e8ca96009c9a479df92c0744e), there are 231 token holders.
+At the moment (september 2018), plants should be growing. According to the [chart](https://etherscan.io/token/tokenholderchart/0x5fb0cdf8f647e44e8ca96009c9a479df92c0744e), there are 231 token holders.
 
 
 Risk assessments: 
