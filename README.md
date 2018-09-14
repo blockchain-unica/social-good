@@ -36,7 +36,7 @@ A collection of blockchain-enabled social good projects, curated by [Blockchain@
 
 ## Environment
 1. [4NEW](Categories/Environment/4new.md)
-1. [Batan](Categories/Environment/bata.md)
+1. [Batan](Categories/Environment/batan.md)
 1. [Beatrix](Categories/Environment/beatrix.md)
 1. [Catenaut](Categories/Environment/catenaut.md)
 1. [Clean Water Coin](Categories/Environment/cleanwatercoin.md)
