@@ -1,3 +1,3 @@
-# sureremit 
+# SureRemit 
 
-[sureremit]()
+[SureRemit](https://sureremit.co/)

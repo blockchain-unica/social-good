@@ -1,3 +1,3 @@
-# unicoin 
+# Unocoin 
 
-[unicoin]()
+[Unocoin](https://www.unocoin.com/)

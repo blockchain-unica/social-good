@@ -1,3 +1,3 @@
-# rebit 
+# Rebit 
 
-[rebit]()
+[Rebit](https://rebit.ph/)

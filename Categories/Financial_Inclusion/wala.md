@@ -1,3 +1,3 @@
-# wala 
+# Wala 
 
-[wala]()
+[Wala](https://www.getwala.com/)

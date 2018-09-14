@@ -1,3 +1,3 @@
-# pinkcoin 
+# Pinkcoin 
 
-[pinkcoin]()
+[Pinkcoin](https://getstarted.with.pink/)

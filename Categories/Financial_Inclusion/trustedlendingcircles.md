@@ -1,3 +1,3 @@
-# trustedlendingcircles 
+# WeTrust 
 
-[trustedlendingcircles]()
+[WeTrust](https://www.wetrust.io/)

@@ -1,3 +1,3 @@
-# charitydao 
+# CharityDAO
 
-[charitydao]()
+[CharityDAO](http://charity-dao.org/)

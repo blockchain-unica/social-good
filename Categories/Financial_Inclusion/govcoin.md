@@ -1,3 +1,3 @@
-# govcoin 
+# Govcoin 
 
-[govcoin]()
+[Govcoin](http://govcoin.com/)

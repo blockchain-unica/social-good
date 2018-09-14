@@ -1,3 +1,3 @@
-# everex 
+# Everex 
 
-[everex]()
+[Everex](https://www.everex.io/)
