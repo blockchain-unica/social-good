@@ -18,13 +18,13 @@ A collection of blockchain-enabled social good projects, curated by [Blockchain@
 1. [Stoneblock](Democracy/stoneblock.md)
 
 ## Digital Identity
-1. AidTech
+1. [AidTech](Digital_Identity/aidtech.md)
 1. [BanQu](Digital_Identity/banqu.md)
-1. Fummy
-1. I AM
-1. SelfKey
-1. Taqanu
-1. Uport
+1. [Fummy](Digital_Identity/fummy.d)
+1. [I AM](Digital_Identity/iam.md)
+1. [SelfKey](Digital_Identity/selfkey.md)
+1. [Taqanu](Digital_Identity/taqanu.md)
+1. [Uport](Digital_Identity/uport.me)
 
 ## Education
 1. [Amply](Education/amply.md)
