@@ -1,37 +1,37 @@
 # Blockchain for social good
 
-A collection of blockchain-enabled social good projects, curated by [Blockchain@Unica](http://blockchain.unica.it/). To add a project to the collection, please check that it respects the following criteria: (1) the project must use a blockchain, of any kind; (2) the goals of the project must be coherent with the [UN Sustainable Development Goals](https://sustainabledevelopment.un.org/); (3) social good should be the primary goal of the project (preeminently business-oriented projects should stay elsewhere). The collection may also include abandoned projects, or proposals without a working implementation.
+A collection of blockchain-enabled social good projects, curated by [Blockchain@Unica](Category/http://blockchain.unica.it/). To add a project to the collection, please check that it respects the following criteria: (1) the project must use a blockchain, of any kind; (2) the goals of the project must be coherent with the [UN Sustainable Development Goals](Category/https://sustainabledevelopment.un.org/); (3) social good should be the primary goal of the project (preeminently business-oriented projects should stay elsewhere). The collection may also include abandoned projects, or proposals without a working implementation.
 
 
 ## Agriculture
-1. [Agunity](Agriculture/agunity.md)
-1. [Bananacoin](Agriculture/bananacoin.md)
-1. [Block Commodities](Agriculture/blockcommodities.md)
-1. [Cacao Shares](Agriculture/cacaoshares.md)
-1. [EthicHub](Agriculture/ethichub.md)
-1. [GreenLink](Agriculture/greenlink.md)
+1. [Agunity](Category/Agriculture/agunity.md)
+1. [Bananacoin](Category/Agriculture/bananacoin.md)
+1. [Block Commodities](Category/Agriculture/blockcommodities.md)
+1. [Cacao Shares](Category/Agriculture/cacaoshares.md)
+1. [EthicHub](Category/Agriculture/ethichub.md)
+1. [GreenLink](Category/Agriculture/greenlink.md)
 
 ## Democracy
-1. [Civil](Democracy/civil.md)
-1. [Infrachain](Democracy/infrachain.md)
-1. [Sovereign](Democracy/sovereign.md)
-1. [Stoneblock](Democracy/stoneblock.md)
+1. [Civil](Category/Democracy/civil.md)
+1. [Infrachain](Category/Democracy/infrachain.md)
+1. [Sovereign](Category/Democracy/sovereign.md)
+1. [Stoneblock](Category/Democracy/stoneblock.md)
 
 ## Digital Identity
-1. [AidTech](Digital_Identity/aidtech.md)
-1. [BanQu](Digital_Identity/banqu.md)
-1. [Fummy](Digital_Identity/fummy.md)
-1. [I AM](Digital_Identity/iam.md)
-1. [SelfKey](Digital_Identity/selfkey.md)
-1. [Taqanu](Digital_Identity/taqanu.md)
-1. [Uport](Digital_Identity/uport.md)
+1. [AidTech](Category/Digital_Identity/aidtech.md)
+1. [BanQu](Category/Digital_Identity/banqu.md)
+1. [Fummy](Category/Digital_Identity/fummy.md)
+1. [I AM](Category/Digital_Identity/iam.md)
+1. [SelfKey](Category/Digital_Identity/selfkey.md)
+1. [Taqanu](Category/Digital_Identity/taqanu.md)
+1. [Uport](Category/Digital_Identity/uport.md)
 
 ## Education
-1. [Amply](Education/amply.md)
-1. [EducateGirls](Education/educategirls.md)
-1. [Femergy](Education/femergy.md)
-1. [Open Source University](Education/opensourceuniversity.md)
-1. [SmartSib](Education/smartsib.md)
+1. [Amply](Category/Education/amply.md)
+1. [EducateGirls](Category/Education/educategirls.md)
+1. [Femergy](Category/Education/femergy.md)
+1. [Open Source University](Category/Education/opensourceuniversity.md)
+1. [SmartSib](Category/Education/smartsib.md)
 
 ## Environment
 1. 4NEW
@@ -68,7 +68,7 @@ A collection of blockchain-enabled social good projects, curated by [Blockchain@
 1. Circles
 1. Everex
 1. Govcoin
-1. [HumaniQ](Financial_Inclusion/humaniq.md)
+1. [HumaniQ](Category/Financial_Inclusion/humaniq.md)
 1. Impak coin
 1. Kora
 1. Moeda
@@ -118,7 +118,7 @@ A collection of blockchain-enabled social good projects, curated by [Blockchain@
 1. Dark Inquiry
 1. Distributed Giving Project
 1. EthPledge
-1. [ETH93](Philantrophy/eth93.md)
+1. [ETH93](Category/Philantrophy/eth93.md)
 1. FugueFoundation
 1. Giftcoin
 1. Give directly
