@@ -1,6 +1,7 @@
 # AidTech
 
 The [AidTech](https://aid.technology/) project is a platform that guarantees transparency of donations. 
+The donor can be notified of exactly how, where and when the money is spent.
 In particular, donations are traced until the final recipient, which  is registered in the platform throught 
 a biometrics identification.
 
