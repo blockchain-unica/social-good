@@ -22,6 +22,6 @@ to enable the use of credit  and debit card payments, reducing the   costs of re
 Irish Red Cross. The  blockchain application launches in summer of 2018. Donation can address   groups or  individuals.
 Clients signed on to use this platform include  Irish Red Cross, National Volunteer and  Philanthropy Centre Singapore and 
 Saint  Vincent de Paul Disaster Services USA.
-
+TraceDonate  sends back notifications when the  donation has been spent and what it has been spent on.
 
 (to be continued)
