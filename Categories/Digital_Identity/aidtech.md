@@ -25,4 +25,4 @@ Clients signed on to use this platform include  Irish Red Cross, National Volunt
 Saint  Vincent de Paul Disaster Services USA.
 TraceDonate  sends back notifications when the  donation has been spent and what it has been spent on.
 
-(to be continued)
+
