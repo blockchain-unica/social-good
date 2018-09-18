@@ -8,3 +8,5 @@ the reaching of goals, the platform designates entities to validate the job done
 Alice is based on the Ethereum blockchain. The information about the projects, such as their impact data, are store 
 in an immutable and public way. On the contrary, sensitive information are stored offchain and encrypted.
 The funds allocated to a project is managed by smart contracts.
+
+The code for the smart contracts used can be found [here](https://github.com/alice-si/contracts)
