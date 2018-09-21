@@ -26,7 +26,7 @@ the pot of escrowed donations made to the project. If any impact investors funde
 automatically siphoned off to make their interest payments, and if these investments are managed by an intermediary fund,
 then it automatically  receives it  management fee from the  interest payments.
 
-### Alice tokens
+### Tokens
 Interacting with the Alice platform requires the use of different tokens.
 * Donation tokens represents donations made to projects  within the project's donation contract. They are used to 
 manage conditional payments and cannot be transferred outside the project's contract.
