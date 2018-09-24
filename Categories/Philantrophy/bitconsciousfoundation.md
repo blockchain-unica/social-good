@@ -1,6 +1,6 @@
-# Bitconsciousfoundation 
+# Bitconscious Foundation 
 
-[Bitconsciousfoundation](https://web.archive.org/web/20171209071817/http://www.bitconscious.org:80/) is a platform to make donations.
+[Bitconscious Foundation](https://web.archive.org/web/20171209071817/http://www.bitconscious.org:80/) is a platform to make donations.
 
 As a first step, the platform allow to choose among Orphanages and Elderly Houses of the Republic of Kazakhstan. Secondly, 
 the Kyrgyz Republic and the Republic of Tajikistan will be added to the database. These entities  can fill a Funds Request Form
