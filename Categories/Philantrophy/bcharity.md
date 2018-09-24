@@ -1,4 +1,4 @@
-# bcharity 
+# Bcharity 
 
 [Bcharity](https://web.archive.org/web/20180422003320/bcharity.io/) is a platform to make donations. 
 It implements a token ([CHAR](https://etherscan.io/token/0xd4942157f1b4668650a809cc7f95c4404e809644)) as an ERC-20 Ethereum Token.
@@ -14,3 +14,4 @@ The project does not seem alive any more.
 
 ## Online resources
 * Token's stackeholders https://etherscan.io/token/0xd4942157f1b4668650a809cc7f95c4404e809644#balances
+* Withe paper https://icorating.com/upload/whitepaper/5oRcV4S5iGs4nIBxmlTakYD1sInOpfgbKf3Ab5BI.pdf
