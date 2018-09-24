@@ -13,5 +13,5 @@ The amount to be given to the charity is around 70% of the collected funds, 10% 
 The process is managed throught sart contracts.
 No hint is given on how the recipient of charity will be selected, or if some feedback will be provided.
 
-So far, the tokens have been purchased by 5
+The platform has created a token [CHT](https://etherscan.io/token/0x1366fd503de9bc25539488f88ff6016ab6f6f1d4#balances) to fund ICO campaign. So far, the tokens have been purchased by 5
 [holders](https://etherscan.io/token/tokenholderchart/0x1366fd503de9bc25539488f88ff6016ab6f6f1d4).
