@@ -2,7 +2,7 @@
 
 [Pinkcoin](https://getstarted.with.pink/) is a platform that collects donations.
 
-The platforms seems to be implemented on a proprietary blockchain that has an innovative consensus algorithm called FlasPoS.
+The platforms seems to be implemented on a proprietary blockchain that has an innovative consensus algorithm called FlashPoS.
 Mining is said to be  fast and rewarding. It is possible to buy the  cryptocurrency (PINK) on the 
 [exchange](https://coinmarketcap.com/it/currencies/pinkcoin/).  
 
