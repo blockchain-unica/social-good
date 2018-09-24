@@ -11,8 +11,8 @@ people  in  need,  the  successful  charitable  actions,  as  well  as  the  tot
 All  financial  information  about  the  collection  of  donations  by  charities  will be kept in open form in their profile. 
 
 The platform also suggest donors to exploit the tax deduction policy of the US in case of donations. 
-The point is: a donor buy CHAR tokens and holds them for a whole year. 
-After a year, if they have  increased of value, and the donor gives them away for charity. In this way, they  can declare  the actual value of the token to have tax deduction. 
+The point is: a donor might buy CHAR tokens and hold them for a whole year. 
+After a year, if they have  increased of value, and the donor can give them away for charity. In this way, they  can declare  the actual value of the token to have tax deduction. 
 On the contrary, if the CHAR loses value, the donor can sell it  and donate the  cash. 
 
 The website https://bcharity.io is down. The token has been purchased by 5 users. The exchange is not active.
