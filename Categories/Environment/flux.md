@@ -46,3 +46,4 @@ At the moment, the homepage is down. The token is not to be found on [etherscan.
 * About TARA Alliance: https://medium.com/flux-network/linking-wealth-technology-and-abundance-how-the-tara-alliance-gives-environmental-data-one-voice-cabafe017eb0
 * About Flux on Medium: https://medium.com/flux-network/the-state-of-flux-b303917fbbf0
 * Flux on linkedin: https://www.linkedin.com/company/flux-iot/
+* Eddy, the device connected to FLUX : https://angel.co/fluxiot/jobs, https://growwitheddy.com/
