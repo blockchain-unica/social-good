@@ -17,10 +17,8 @@ may not. Eg: Parents can approve certain transactions kids may want to make, but
 transactions. 
 
 ## Token
-The platform will use t 2 tokens:
-- GIVE Token for investors: it is volatile and can be freely traded on public exchanges. Uses of this token: TCR (staking), Governance, and Gas (for the GIVE Coin).
-	
-- GIVE Coin for the kids: it is stable  because  pegged  to USDT.  The Foundation will at first be the only exchange able to convert to GIVE Coin. 
+The platform will use t 2 tokens: the GIVE token and the GIVE coin.
+The Give token is meant to be used by investors, has a volatile value and  can be freely traded on public exchanges	The Give  Coin is the one ised by children and will have a stable value, pegged to USDT.  The Foundation will at first be the only exchange able to convert fiat to  to GIVE Coin. 
 
 ### Online resources
 * Light paper:  https://www.dropbox.com/s/32tlifg8fhzgcii/GIVE%20Light%20Paper.pdf?dl=0
