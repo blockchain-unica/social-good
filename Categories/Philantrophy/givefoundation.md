@@ -1,6 +1,6 @@
-# givefoundation 
+# GiveFoundation 
 
-[givefoundation]()
+[GiveFoundation](https://give.si/)
 
 
 ### Online resources
