@@ -1,9 +1,9 @@
 # Kora 
 
-[Kora](https://kora.network/) is a platform to provide financial services to the under banked.
+[Kora](https://kora.network/) is a platform to provide financial services to the under banked, in particular, the whitepaper addresses the ones making a living through agricolture.
 
 The platform aims at creating a network of users, that can interact using the token provided by the platform (KNT). Users can send money (remittances) to family, lend money, buy services or goods.
-As a network, it will be possible to hare information about crop, harvesting, meteo and how to use machinary, and what price selling the harvest. Also, it will be possible to land machinary to other users.
+As a network, it will be possible to share information about crop, harvesting, meteo and how to use machinary, and what price selling the harvest. Also, it will be possible to land machinary to other users.
 
 In particular the platform foresee the presence of special user that will behaves as *exchange*, so that they can provide others with (fiat) cash.
 
