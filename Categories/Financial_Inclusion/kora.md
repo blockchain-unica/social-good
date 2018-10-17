@@ -7,7 +7,7 @@ As a network, it will be possible to share information about crop, harvesting, m
 
 In particular the platform foresee the presence of special user that will behaves as *exchange*, so that they can provide others with (fiat) cash.
 
-Each user will log in the network providing certification of thei own identity, either through documentation, or to biological proofs. For the identification part, it will be used the application [uPort](https://www.uport.me/).
+Each user will log in the network providing certification of their own identity, either through documentation, or through  biological proofs. For the identification part, it will be used the application [uPort](https://www.uport.me/).
 
 Also, the platform is going to implement a protocol for egovernance, so that main decisions about the platform itself will be settled by users.
 
