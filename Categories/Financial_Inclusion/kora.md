@@ -14,5 +14,7 @@ Also, the platform is going to implement a protocol for e-governance, so that ma
 The white paper is well written, especially the part that explains the state of the art about the problems of the unbanked. 
 On the contrary, the technical details are not or just a few addressed. Somewhere, it is mentioned that the platform will be using smart contracts to regulate loans.
 
+The network is to be implemented on Ethermint (Ethereum blockchain plus Tendermint consensus).
+
 ### Online documentation
 * White paper: https://drive.google.com/file/d/1HswzKWVLFOR6cnhO81uP4u7W92xDSZjB/view
