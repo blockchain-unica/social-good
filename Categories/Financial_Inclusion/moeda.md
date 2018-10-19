@@ -8,7 +8,7 @@ The blockchain (Ethereum) is used to manage the token, distribute money, and kee
 
 Issues: 
 * no hints about how and when the profit is to be obtained by investors.
-* no hints about how to assess the proceeding of funded projects 
+* no hints about how to assess the state of funded projects 
 
 ### Online resources:
 * Youtube channel: https://www.youtube.com/channel/UCYKNfrimYV-goJP2Du-k7Mw
