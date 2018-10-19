@@ -3,8 +3,8 @@
 [Moeda](https://moedaseeds.com/) is a platform for investing in underbanked population.
 
 The platform uses a token (MDA), that  can be obtained by purchase from an exchange, for instance [binance](https://www.binance.com/it). 
-The investment is made through micro loans.
-Blockchain is used to manage the token, distribute money, and keeping track of funds. Also the funded project can be observed, as it proceeds.  
+Throught the platfor is possible to invest in projects,  through micro loans.
+The blockchain (Ethereum) is used to manage the token, distribute money, and keeping track of funds. Also the funded project can be observed, as it proceeds.  
 
 Issues: 
 * no hints about how and when the profit is to be obtained by investors.
