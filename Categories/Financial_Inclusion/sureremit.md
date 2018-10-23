@@ -6,6 +6,7 @@ Moreover in this case,  the sender of the money can be sure that the amount is u
 This is achieved by using  the token (REMIT)  to buy digital vouchers (SureGift) that can be spent  for goods and services from SureRemit's ecosystem of partner merchants. 
 The merchants can redeem the voucher throught the app SureGifts, obtaining tokens. Tokens can then be exchanged and settled in fiat directly into the bank accounts or in mobile wallets. 
 
+The [SureGift](https://suregifts.com.ng/) vouchers and application are already used in Nigeria since 2014.
 
 ### Online resources
 * White paper: https://token.sureremit.co/SureRemit-WhitePaper-v.1.21.pdf
