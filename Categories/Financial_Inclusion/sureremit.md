@@ -7,7 +7,7 @@ This is achieved by using  the token (RMT)  to buy digital vouchers (SureGift) t
 The merchants can redeem the voucher throught the app SureGifts, obtaining tokens. Tokens can then be exchanged and settled in fiat directly into the bank accounts or in mobile wallets. 
 Besides from the vouchers, the token can be used to pay bills for targeted remittances. 
 
-The [SureGift](https://suregifts.com.ng/) vouchers and application are already used in Nigeria since 2014; and are currently used in Nigeria, Kenya and Rwanda.
+The [SureGift](https://suregifts.com.ng/) vouchers and application  are currently used in Nigeria, Kenya and Rwanda.
 
 The SureRemit token is built upon the Stellar blockchain.
 
