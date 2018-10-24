@@ -12,7 +12,7 @@
 * **Mutual Insurance**. The fourth product is an insurance platform which involves smart contracts to evaluates whether or not a set of non-subjective criteria was met (i.e. drought, low rainfall..) and pay out accordingly. 
 
 
-The whole platform use its own token Trustcoin (an ERC20 [token](https://etherscan.io/address/0xcb94be6f13a1182e4a4b6140cb7bf2025d28e41b) on Ethereum) for services fees.
+The whole platform use its own token Trustcoin (an ERC20 [token](https://etherscan.io/address/0xcb94be6f13a1182e4a4b6140cb7bf2025d28e41b) on Ethereum) for  fees and rewards.
 
 ### Online references
 * White paper (archive version): https://web.archive.org/web/20170928134451/https://bravenewcoin.com/assets/Whitepapers/WeTrustWhitePaper.pdf
