@@ -1,18 +1,12 @@
 # WeTrust 
 
-[WeTrust](https://www.wetrust.io/)  is a collaborative  lending  platform, implemented on Ethereum, composed of several products:  
+[WeTrust](https://www.wetrust.io/)  is a collaborative  lending  platform, implemented on Ethereum, composed of several products.  
 
 
-#### Trusted Lending Circle
-WeTrust’s first product is a Trusted Lending Circle (TLC) platform,  used to lend/ borrow money.
-
-In real life, a Trusted Lending Circle is  a group of people, which know and trust  each others. Each member give a fixed amount of money to the group, at regular intervals, and the money is distributed back to one of the member, according to some  method  previously decided  (lottery, bidding, round robin).  
-Each Trusted Lending Circle has a foreperson, who is organizing the Circle and is responsible to collect funds from all participants. 
-
-WeTrust has implemented a TCL on Ethereum blockchain. It consists of a smart contract which automates the savings
-and lending process. This encompasses contributions, bidding, assigning funds at the end of each round, and withdrawing funds.
+* **Trusted Lending Circle**. In real life, a Trusted Lending Circle (TCL) is a group of people, that know and trust each others, which give money to the circle at regular interval. The gathered money can be used by one of them, according to some criteria previously decided.  The circle can have a responsible for  collecting the funds.  WeTrust implements a TCL on Ethereum blockchain. The product  consists of a smart contract which automates the savings and lending process.  The lending can be regulated by lottery, bidding, or round robin.  The savings are gathered at regular interval, for the same amount from all the participants, and at each round, the smart contract assigns the funds. 
 
 #### Credit identity 
+
 
 #### Lending and Borrowing platform
 
