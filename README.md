@@ -129,6 +129,7 @@ A collection of blockchain-enabled social good projects, curated by [Blockchain@
 1. [Helperbit](Categories/Philantrophy/helperbit.md)
 1. [Humanity Road](Categories/Philantrophy/humanityroad.md)
 1. [Hypergive](Categories/Philantrophy/hypergive.md)
+1. [MartinoFriends](Categories/Philantrophy/martinofriends.md
 1. [KindTrust](Categories/Philantrophy/kindtrust.md)
 1. [Positive Women](Categories/Philantrophy/positivewomen.md)
 1. [ProofOfHumanity](Categories/Philantrophy/proofofhumanity.md)
