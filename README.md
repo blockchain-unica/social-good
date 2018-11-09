@@ -2,6 +2,8 @@
 
 A collection of blockchain-enabled social good projects, curated by [Blockchain@Unica](https://blockchain.unica.it/). To add a project to the collection, please check that it respects the following criteria: (1) the project must use a blockchain, of any kind; (2) the goals of the project must be coherent with the [UN Sustainable Development Goals](https://sustainabledevelopment.un.org/); (3) social good should be the primary goal of the project (preeminently business-oriented projects should stay elsewhere). The collection may also include abandoned projects, or proposals without a working implementation.
 
+A summary of our analysis is available on [arXiv](https://arxiv.org/abs/1811.03424).
+
 
 ## Agriculture
 1. [Agunity](Categories/Agriculture/agunity.md)
@@ -129,7 +131,7 @@ A collection of blockchain-enabled social good projects, curated by [Blockchain@
 1. [Helperbit](Categories/Philantrophy/helperbit.md)
 1. [Humanity Road](Categories/Philantrophy/humanityroad.md)
 1. [Hypergive](Categories/Philantrophy/hypergive.md)
-1. [MartinoFriends](Categories/Philantrophy/martinofriends.md
+1. [MartinoFriends](Categories/Philantrophy/martinofriends.md)
 1. [KindTrust](Categories/Philantrophy/kindtrust.md)
 1. [Positive Women](Categories/Philantrophy/positivewomen.md)
 1. [ProofOfHumanity](Categories/Philantrophy/proofofhumanity.md)
