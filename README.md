@@ -138,7 +138,6 @@ A summary of our analysis is available on [arXiv](https://arxiv.org/abs/1811.034
 1. [MartinoFriends](Categories/Philantrophy/martinofriends.md)
 1. [Pinkcoin](Categories/Philantrophy/pinkcoin.md)
 1. [Positive Women](Categories/Philantrophy/positivewomen.md)
-1. [ProofOfHumanity](Categories/Philantrophy/proofofhumanity.md)
 1. [RootProject](Categories/Philantrophy/rootproject.md)
 1. [Seedom](Categories/Philantrophy/seedom.md)
 1. [SupPorter](Categories/Philantrophy/supporter.md)
