@@ -1,3 +1,3 @@
-# ethpledge 
+# EthPledge 
 
-[ethpledge]()
+[EthPledge](http://www.ethpledge.com/)
