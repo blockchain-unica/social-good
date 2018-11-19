@@ -21,7 +21,6 @@ A summary of our analysis is available on [arXiv](https://arxiv.org/abs/1811.034
 1. [Stoneblock](Categories/Democracy/stoneblock.md)
 
 ## Digital Identity
-1. [AidTech](Categories/Digital_Identity/aidtech.md)
 1. [BanQu](Categories/Digital_Identity/banqu.md)
 1. [Fummy](Categories/Digital_Identity/fummy.md)
 1. [HumaniQ](Categories/Digital_Identity/humaniq.md)
@@ -107,6 +106,7 @@ A summary of our analysis is available on [arXiv](https://arxiv.org/abs/1811.034
 
 ## Philantrophy
 1. [Aidcoin](Categories/Philantrophy/aidcoin.md)
+1. [AidTech](Categories/Philantrophy/aidtech.md)
 1. [AntLove](Categories/Philantrophy/antlove.md)
 1. [BCharity](Categories/Philantrophy/bcharity.md)
 1. [Benefactory](Categories/Philantrophy/benefactory.md)
