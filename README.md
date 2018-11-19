@@ -6,7 +6,6 @@ A summary of our analysis is available on [arXiv](https://arxiv.org/abs/1811.034
 
 
 ## Agriculture
-1. [AgroTechFarm](Categories/Agriculture/agrotechfarm.md)
 1. [Agunity](Categories/Agriculture/agunity.md)
 1. [Bananacoin](Categories/Agriculture/bananacoin.md)
 1. [Block Commodities](Categories/Agriculture/blockcommodities.md)
