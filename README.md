@@ -91,7 +91,7 @@ A summary of our analysis is available on [arXiv](https://arxiv.org/abs/1811.034
 1. [SimplyVital Health](Categories/Health/simplyvitalhealth.md)
 
 ## Human Rights
-1. [Anacoin](Categories/Human_Rights/anacoin.md)
+1. [Ananas](Categories/Human_Rights/ananas.md)
 1. [Handshake](Categories/Human_Rights/handshake.md)
 1. [Hu-manity.co](Categories/Human_Rights/humanity.md)
 1. [LGBT Token](Categories/Human_Rights/lgbttoken.md)
