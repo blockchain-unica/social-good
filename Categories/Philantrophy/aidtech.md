@@ -2,7 +2,7 @@
 
 The [AidTech](https://aid.technology/) project is a platform that guarantees transparency of donations. 
 The donor can be notified of exactly how, where and when the money is spent.
-In particular, donations are traced until the final recipient, which  is registered in the platform throught 
+In particular, donations are traced until the final recipient, which is registered in the platform throught 
 a biometrics identification.
 
 The platform serves different kind of users: 
@@ -19,10 +19,8 @@ send money (ie. dollars) home, they can decide how and when the money should be 
 This solution is integrated  with [Stripe](https://stripe.com/it), a U.S. company secialized in safe online payments,   
 to enable the use of credit and debit card payments, reducing the costs of remittances to 3%.
 
-* [TraceDonate](https://www.tracedonate.com/) is the application to make donations, developped in partnership with the 
-Irish Red Cross. The  blockchain application started in summer of 2018. Donations can address groups or individuals.
-Clients signed on to use this platform include Irish Red Cross, National Volunteer and  Philanthropy Centre Singapore and 
+* [TraceDonate](https://www.tracedonate.com/) is the application to make donations, developed in partnership with the 
+Irish Red Cross. The blockchain application started in summer of 2018. Donations can address groups or individuals.
+Clients signed on to use this platform include Irish Red Cross, National Volunteer and Philanthropy Centre Singapore and 
 Saint Vincent de Paul Disaster Services USA.
 TraceDonate sends back notifications when the donation has been spent and what it has been spent on.
-
-
