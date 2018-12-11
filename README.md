@@ -106,7 +106,6 @@ A summary of our analysis is available on [arXiv](https://arxiv.org/abs/1811.034
 ## Philantrophy
 1. [Aidcoin](Categories/Philantrophy/aidcoin.md)
 1. [AidTech](Categories/Philantrophy/aidtech.md)
-1. [AntLove](Categories/Philantrophy/antlove.md)
 1. [BCharity](Categories/Philantrophy/bcharity.md)
 1. [Benefactory](Categories/Philantrophy/benefactory.md)
 1. [BitConscious Foundation](Categories/Philantrophy/bitconsciousfoundation.md)

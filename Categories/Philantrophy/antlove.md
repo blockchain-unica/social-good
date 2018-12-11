@@ -1,3 +1,0 @@
-# antlove 
-
-[antlove]()
