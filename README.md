@@ -65,7 +65,6 @@ A summary of our analysis is available on [arXiv](https://arxiv.org/abs/1811.034
 1. [AccessNetwork](Categories/Financial_Inclusion/accessnetwork.md)
 1. [Alice](Categories/Financial_Inclusion/alice.md)
 1. [ALMBank](Categories/Financial_Inclusion/almbank.md)
-1. [BitPay](Categories/Financial_Inclusion/bitpay.md)
 1. [BitPesa](Categories/Financial_Inclusion/bitpesa.md)
 1. [Change Bank](Categories/Financial_Inclusion/changebank.md)
 1. [Circles](Categories/Financial_Inclusion/circles.md)
@@ -99,7 +98,6 @@ A summary of our analysis is available on [arXiv](https://arxiv.org/abs/1811.034
 1. [MazaCoin](Categories/Human_Rights/mazacoin.md)
 
 ## Land Rights
-1. [BitFury](Categories/Land_Rights/bitfury.md)
 1. [BitLand](Categories/Land_Rights/bitland.md)
 1. [Propy](Categories/Land_Rights/propy.md)
 
