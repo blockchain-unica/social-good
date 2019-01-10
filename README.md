@@ -67,7 +67,7 @@ A summary of our analysis is available on [arXiv](https://arxiv.org/abs/1811.034
 1. [ALMBank](Categories/Financial_Inclusion/almbank.md)
 1. [BitPesa](Categories/Financial_Inclusion/bitpesa.md)
 1. [Change](Categories/Financial_Inclusion/change.md)
-1. [Circles](Categories/Financial_Inclusion/circles.md)
+1. [Circle USDC](Categories/Financial_Inclusion/circleusdc.md)
 1. [Everex](Categories/Financial_Inclusion/everex.md)
 1. [Govcoin](Categories/Financial_Inclusion/govcoin.md)
 1. [Impak coin](Categories/Financial_Inclusion/impakcoin.md)
